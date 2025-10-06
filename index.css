@@ -1,0 +1,10 @@
+@import "variables.css";
+
+:root {
+    --color-pink: pink;
+}
+
+body {
+    color: var(--color-blue);
+    background-color: var(--color-pink);
+}
